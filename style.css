@@ -79,3 +79,22 @@ ul {
     margin: 20px auto; 
     border-radius: 5px; /
 }
+ol li:hover {
+    font-style: italic;
+}
+
+
+img {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px; 
+}
+
+
+img:hover {
+    bottom: auto;
+    right: auto;
+    top: 0;
+    left: 0;
+}
